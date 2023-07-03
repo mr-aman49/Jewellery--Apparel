@@ -1,0 +1,12 @@
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: gray; /* Specify the background color of the circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #111010; /* Specify the color of the text */
+    font-size: 24px;
+    font-weight: bold;
+  }
